@@ -1,0 +1,10 @@
+open console: amplify console
+run `amplify configure project `on changing project location
+
+users
+username: useUne
+password: #f3;wejfwH*H21
+email: user554random@gmail.com
+
+view project details
+https://eu-central-1.console.aws.amazon.com/amplify/home
